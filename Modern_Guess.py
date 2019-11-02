@@ -4,6 +4,7 @@ import speech_recognition as sr
 
 #this is a voice-recog game which prompts the user to guess a modernist author. 
 # The code was taken from RealPython, then tweaked as a learning exercise.
+# The code was based on a guide from geeksforgeeks, then tweaked as a learning exercise.
 
 def recognize_speech_from_mic(recognizer, microphone):
     #first off let's get some error messages out of the way
